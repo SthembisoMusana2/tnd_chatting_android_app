@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_display_something.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_no_connection.xml" value="0.105859375" />
+        <entry key="app/src/main/res/layout/activity_recent_chats.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_recipient.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_search_users.xml" value="0.208984375" />
+        <entry key="app/src/main/res/layout/activity_signup.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_test.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_user_profile.xml" value="0.208984375" />
+        <entry key="app/src/main/res/layout/add_recipient_list_item.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/chat_bubble.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/chat_bubble_2.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/content_test.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.208984375" />
+        <entry key="app/src/main/res/layout/fragment_user_profile.xml" value="0.208984375" />
+        <entry key="app/src/main/res/layout/image_round.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/recent_user.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/settings_activity.xml" value="0.208984375" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/recent_chat_menu.xml" value="0.2" />
+        <entry key="app/src/main/res/menu/user_menu.xml" value="0.1" />
+        <entry key="app/src/main/res/xml/root_preferences.xml" value="0.208984375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
